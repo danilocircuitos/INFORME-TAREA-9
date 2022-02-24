@@ -34,6 +34,8 @@ Especificos:
 
 Capítulo 17
 
+![image](https://user-images.githubusercontent.com/93210648/155525342-4f13af4f-ebf8-4ca3-b89d-841d6d3fc749.png)
+
 
 Capítulo 18
 
@@ -149,7 +151,49 @@ SECCIÓN 17–6 Resonancia en paralelo
 
 ![image](https://user-images.githubusercontent.com/93210648/155520173-7df72083-f3c8-4bda-9fd6-99c25dbdf488.png)
 
-Ejercicios Capitulo 18:
+27. Un Transformador que entrega Psal=48Kw tiene una perdida en el núcleo de 280 W y una perdida en el cobre de 450 W. ¿Cuál es su eficiencia a esta carga?
+    
+![image](https://user-images.githubusercontent.com/93210648/155525858-74aed548-3627-4cbd-856f-95189c08aa63.png)
+
+29. Para la figura 23-78, V1 = L1di1/dt + Mdi2/dt, V2 = +Mdi1/dt + L2di2/dt. Para cada circuito indique que signo usar con M, más o menos
+
+![image](https://user-images.githubusercontent.com/93210648/155525920-b8fddaf0-1938-4c3b-9290-0f5470f9183e.png)
+
+31. Para un conjunto de bobinas acopladas, L1 = 2H, M=0.8H y el coeficiente de acoplamiento es de 0.6. Determine L2.
+
+![image](https://user-images.githubusercontent.com/93210648/155526224-348262f4-193f-4e19-88b1-852b59d8ec33.png)
+
+33. Todo igual que en el problema 32 excepto, excepto que i1 = e-500t A. Encuentre las ecuaciones de los voltajes del primario y secundario. Calcúlelos a t = 1ms.
+
+![image](https://user-images.githubusercontent.com/93210648/155526290-12ef11ed-64a4-4bab-b69d-33fecb9da209.png)
+
+35. Para la figura 23-80, determine LT.
+
+![image](https://user-images.githubusercontent.com/93210648/155526340-5c49ad5e-4ac1-49b4-82fa-0e4476bcbd82.png)
+
+
+37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f=60Hz, ¿Cuál es la corriente de la fuente?
+
+![image](https://user-images.githubusercontent.com/93210648/155526398-ea2d5360-0253-488c-b072-3c1bf7df0b4a.png)
+
+Resolucion de los ejercicios del capitulo 18:
+
+1. En cierto filtro pasa bajas, XC = 500 Ω y R = 2.2 kΩ. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada es de 10 Vrms?
+
+![image](https://user-images.githubusercontent.com/93210648/155526575-3fc4be33-51b6-4555-9d8a-2a0fbad9abdd.png)
+
+3. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada cuando Vent=10 V.
+
+![image](https://user-images.githubusercontent.com/93210648/155526651-b0e12b45-f9b0-43fe-ab12-6bc6e6c0f12e.png)
+
+![image](https://user-images.githubusercontent.com/93210648/155526674-36b9390f-f6b9-4e22-b1f9-69daf5eddaf3.png)
+
+![image](https://user-images.githubusercontent.com/93210648/155526705-7c2780fd-a4c0-4d31-9a81-d08b3b30e883.png)
+
+![image](https://user-images.githubusercontent.com/93210648/155526733-3ffdc988-e0f0-4046-b0cd-2c8b6fdab343.png)
+
+
+
 
 5 Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuencias críticas:
 
@@ -184,6 +228,39 @@ Ejercicios Capitulo 18:
 
 ![image](https://user-images.githubusercontent.com/93210648/155524300-c443872d-e461-4599-8e24-c5a73791074b.png)
 
+17. Determine la frecuencia central para cada filtro de la figura 18-43.
+
+![image](https://user-images.githubusercontent.com/93210648/155524596-22ffd2a2-8cc0-4494-aa30-092b37333b26.png)
+
+19. ¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura 18-43? Suponga que la respuesta es simétrica con respecto a f0.
+
+![image](https://user-images.githubusercontent.com/93210648/155524683-0a29827d-af4c-46a6-b51b-7a1caec53d20.png)
+
+21. Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4 Æ, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent 120 V?
+
+![image](https://user-images.githubusercontent.com/93210648/155524741-4e8057be-da59-4b49-891e-e65912effdc7.png)
+
+![image](https://user-images.githubusercontent.com/93210648/155524761-e6e3426e-3c0f-4a09-941f-3e663bdb9fa3.png)
+
+23. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes especificaciones:
+
+    AB 500 Hz; Q 40; e IC(máx) 20 mA, VC(máx) 2.5 V.
+    
+![image](https://user-images.githubusercontent.com/93210648/155524879-dda4513f-8722-484c-9fde-48ba1f2f84d1.png)
+
+![image](https://user-images.githubusercontent.com/93210648/155524909-d4091f6c-d933-41b4-9e43-96f94d51c1f0.png)
+
+25. Para cada filtro de la figura 18-47, determine la frecuencia central de la banda de rechazo.
+
+![image](https://user-images.githubusercontent.com/93210648/155524984-84dd6669-41f6-4951-97ee-bec0b6508785.png)
+
+*27. Determine los valores de L1 y L2 en la figura 18-48 para dejar pasar una señal con frecuencia de 1200 kHz y rechazar una señal con frecuencia de 456 kHz.
+
+![image](https://user-images.githubusercontent.com/93210648/155525039-a4de20ca-d597-4db7-bfae-30721094b984.png)
+
+![image](https://user-images.githubusercontent.com/93210648/155525068-2ba28567-c615-42d1-af73-9661ee2bce42.png)
+
+
 
 4 Video:
 
@@ -192,7 +269,9 @@ Ejercicios Capitulo 18:
 
 5  Conclusiones:
 
+•Los circuitos polifásicos son aquellos que poseen más de 1 línea de alimentación, pueden estar conectados en estrella o delta, además estos circuitos tienen valores de voltaje y corriente fase, el cual se da cuando se toma una línea y tierra, por otra parte, tienen valores línea a línea, los cuales se dan cuando se toman dos líneas de alimentación.
 
+•Al analizar los transformadores hemos podido comprender de mejor manera en qué campos se usan los sistemas trifásicos, además de tener una mejor idea a la hora de emplearlos de forma correcta y resolver cualquier tipo de operación o ejercicio. Tenemos una idea más clara sobre los transformadores y sus características fundamentales.
 
 6 Bibliografia:
 
