@@ -264,7 +264,7 @@ Resolucion de los ejercicios del capitulo 18:
 
 4 Video:
 
-
+https://youtu.be/Dgq2sO36_Aw
 
 
 5  Conclusiones:
