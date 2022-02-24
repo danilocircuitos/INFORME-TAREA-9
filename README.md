@@ -100,7 +100,8 @@ SECCIÓN 17–3 Resonancia en serie
 
     (a) 500 kHz     (b) 1000 kHz    (c) 1500 kHz     (d) 2000 kHz
     
-    ![image](https://user-images.githubusercontent.com/93210648/155459782-9d3ad7aa-8690-49f6-8b3c-1fa3ddb4655e.png)
+    
+![image](https://user-images.githubusercontent.com/93210648/155459782-9d3ad7aa-8690-49f6-8b3c-1fa3ddb4655e.png)
 
  
  
@@ -113,18 +114,31 @@ SECCIÓN 17–4 Impedancia de circuitos RLC en paralelo
 ![image](https://user-images.githubusercontent.com/93210648/155021460-e0cc04f6-1dfe-43a0-84f9-cbaa5732f2f5.png)
 
 
+![image](https://user-images.githubusercontent.com/93210648/155460795-42ea9425-ea87-4450-aa4e-eaf5c9a4176c.png)
 
 SECCIÓN 17–5 Análisis de circuitos RLC en paralelo
 
 19. Para el circuito de la figura 17-63, determine todas las corrientes y los voltajes en forma polar.
 
+![image](https://user-images.githubusercontent.com/93210648/155461536-153d7160-b570-48d6-be4b-001d8631c118.png)
+
+
+
+
 21. Cambie la frecuencia a 100 kHz en la figura 17-63 y repita el problema 19.
+
+![image](https://user-images.githubusercontent.com/93210648/155516273-bbacd271-c39d-4a20-98ff-0409152e98d0.png)
+
+
 
 SECCIÓN 17–6 Resonancia en paralelo
 
 23. Determine Z en condición de resonancia y fr para el circuito tanque de la figura 17-64.
 
 ![image](https://user-images.githubusercontent.com/93210648/155021653-1cfd27d0-6b30-494e-a06b-70297816cbb9.png)
+
+![image](https://user-images.githubusercontent.com/93210648/155518553-f00f1606-e35f-47f9-a4e8-738f0c5d687d.png)
+
 
 25. Determine Preal, Pr y Pa en el circuito de la figura 17-64 en condición de resonancia.
 
