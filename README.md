@@ -142,6 +142,7 @@ SECCIÓN 17–6 Resonancia en paralelo
 
 25. Determine Preal, Pr y Pa en el circuito de la figura 17-64 en condición de resonancia.
 
+![image](https://user-images.githubusercontent.com/93210648/155520173-7df72083-f3c8-4bda-9fd6-99c25dbdf488.png)
 
 
 
