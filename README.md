@@ -54,15 +54,26 @@ SECCIÓN 17–1 Impedancia de circuitos RLC en serie
 
 ![image](https://user-images.githubusercontent.com/93210648/155017333-ae3eab95-7140-4a2b-ba2b-28cf87442a6c.png)
 
+La impedancia se duplica también, ya que es directamente proporcional a la frecuencia
+
+
 SECCIÓN 17–2 Análisis de circuitos RLC en serie
 
-5. Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar.
+5  Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar.
 
-7. Analice el circuito de la figura 17-60 para determinar lo siguiente ( f = 25 kHz):
+![image](https://user-images.githubusercontent.com/93210648/155442685-8f645da7-68ab-40d7-9df5-fbbd0a5df061.png)
+
+
+7   Analice el circuito de la figura 17-60 para determinar lo siguiente ( f = 25 kHz):
 
    (a) Itot     (b) Preal     (c) Pr      (d) Pa   
    
+   
+   
  ![image](https://user-images.githubusercontent.com/93210648/155018383-1ca2ea56-7fe2-4ac7-bb0a-c393e8137fc5.png)
+ 
+ ![image](https://user-images.githubusercontent.com/93210648/155456336-1d1ce8cb-14fb-484b-9651-48ff9d6dd663.png)
+
  
 SECCIÓN 17–3 Resonancia en serie
  
@@ -70,15 +81,27 @@ SECCIÓN 17–3 Resonancia en serie
 
 ![image](https://user-images.githubusercontent.com/93210648/155019801-bd0e8591-a043-4db2-9752-a51867608e67.png)
 
+![image](https://user-images.githubusercontent.com/93210648/155457672-77663c89-d633-4160-999a-3d825a42ff49.png)
+
+
 11. Cierto circuito resonante dispuesto en serie tiene una corriente mínima de 50 mA y un VL de 100 V. El voltaje aplicado es de 10 V. ¿Cuál es el valor de Z? ¿Cuáles los valores de XL y XC?
+
+![image](https://user-images.githubusercontent.com/93210648/155458790-9605e3c0-5e34-4add-acaa-e4f1460e79de.png)
+
 
 13. Para la figura 17-62, ¿cuál es el valor de la corriente en los puntos de potencia media?
 
 ![image](https://user-images.githubusercontent.com/93210648/155020238-53d4538d-c826-46c6-b716-7594c0e001df.png)
 
+![image](https://user-images.githubusercontent.com/93210648/155459680-c97a6b75-0d2a-44ff-a6a7-f9f3c4a7992f.png)
+
+
 *15. Diseñe un circuito en el cual las siguientes frecuencias resonantes en serie se puedan seleccionar con un conmutador:
 
     (a) 500 kHz     (b) 1000 kHz    (c) 1500 kHz     (d) 2000 kHz
+    
+    ![image](https://user-images.githubusercontent.com/93210648/155459782-9d3ad7aa-8690-49f6-8b3c-1fa3ddb4655e.png)
+
  
  
 PARTE 2: CIRCUITOS EN PARALELO
@@ -88,6 +111,8 @@ SECCIÓN 17–4 Impedancia de circuitos RLC en paralelo
 17. ¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta.
 
 ![image](https://user-images.githubusercontent.com/93210648/155021460-e0cc04f6-1dfe-43a0-84f9-cbaa5732f2f5.png)
+
+
 
 SECCIÓN 17–5 Análisis de circuitos RLC en paralelo
 
@@ -106,11 +131,12 @@ SECCIÓN 17–6 Resonancia en paralelo
 
 
 
-4. Video:
+4 Video:
 
 
 
-5.  Conclusiones:
+
+5  Conclusiones:
 
 
 
