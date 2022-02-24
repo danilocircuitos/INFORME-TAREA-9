@@ -22,9 +22,13 @@ Tema: Cap 17 y 18
 
 General:
 
+• Conocer todo lo relacionado con los filtros pasivos y circuitos RCL.
 
 Especificos:
 
+• Realizar cálculos de voltaje, corriente, resistencia, inductancia en Circuitos con acoplamientos
+
+• Resolver Circuitos polifásicos.
 
 2. Marco Teorico:
 
@@ -33,6 +37,7 @@ Capítulo 17
 
 Capítulo 18
 
+![image](https://user-images.githubusercontent.com/93210648/155523298-241a9f94-6c6d-4b96-a0f7-3cbaa21b4d64.png)
 
 
 3. Explicación y Resolución de ejercicios o problemas:
@@ -144,6 +149,40 @@ SECCIÓN 17–6 Resonancia en paralelo
 
 ![image](https://user-images.githubusercontent.com/93210648/155520173-7df72083-f3c8-4bda-9fd6-99c25dbdf488.png)
 
+Ejercicios Capitulo 18:
+
+5 Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuencias críticas:
+
+  (a) 60 Hz (b) 500 Hz (c) 1 kHz (d) 5 kHz
+  
+  
+![image](https://user-images.githubusercontent.com/93210648/155523442-7fc9a7b2-6a0d-4c8e-a826-ba35db54dc71.png)
+
+7. Trace una curva de Bode para cada una de las partes del problema 5.
+
+![image](https://user-images.githubusercontent.com/93210648/155523557-b002fd17-2c3a-4095-8249-7eebd92e2eba.png)
+
+9. El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los siguientes niveles de dB:
+
+   (a) -1 dB (b) -3 dB (c) -6 dB (d) -20 dB
+   
+![image](https://user-images.githubusercontent.com/93210648/155523696-19696770-c01f-42bc-95ce-93a799ff36c4.png)
+
+11. En un filtro pasaaltas, XC 500 y R 2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando Vent 10 V rms?
+
+![image](https://user-images.githubusercontent.com/93210648/155523757-3e75ba6b-2c8e-4b4a-a07f-b699d8cdb585.png)
+
+13. Determine el voltaje de salida de cada filtro mostrado en la figura 18-41 a la frecuencia especificada cuando Vent 10 V.
+
+![image](https://user-images.githubusercontent.com/93210648/155523828-df4fbbfb-f0cd-4cde-b62c-c1a693178990.png)
+
+15. Trace la curva de Bode para cada filtro mostrado en la figura 18-41.
+
+![image](https://user-images.githubusercontent.com/93210648/155524214-e7abf53c-d221-49ea-b872-19e4c391c73a.png)
+
+![image](https://user-images.githubusercontent.com/93210648/155524240-daa97e33-3e86-45d6-95eb-ba87a02e1935.png)
+
+![image](https://user-images.githubusercontent.com/93210648/155524300-c443872d-e461-4599-8e24-c5a73791074b.png)
 
 
 4 Video:
